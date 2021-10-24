@@ -15,6 +15,7 @@
 :rocket: **Execute**
 
 -   [Live demo](https://vercel-test-3t4gkwdrc-hi-dapp.vercel.app/)
+-   **Status**: :red_circle: deprecated
 
 :cow: **Bullish Thesis**
 
